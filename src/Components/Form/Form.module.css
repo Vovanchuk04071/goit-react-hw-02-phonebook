@@ -1,6 +1,5 @@
 .form{
     display: grid;
-    grid-template-columns: repeat(1, 1fr);
     grid-gap: 5px;
     border: 1px solid black;
    padding: 10px;
@@ -9,17 +8,12 @@
 
 .label{
     display: grid;
-    grid-template-columns: repeat(1, 1fr);
     grid-gap: 5px;
     font-size: 20px;
     font-weight: 600;
     margin-bottom: 10px;
     width: max-content;
 }
-
-/* .button{
-    width: max-content;
-} */
 
 .button:active{
     background-color: #3E94D1

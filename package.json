@@ -2,7 +2,7 @@
   "name": "goit-react-hw-02-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vovanchuk04071.github.io/goit-react-hw-02-feedback",
+  "homepage": "https://Vovanchuk04071.github.io/goit-react-hw-02-phonebook",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",

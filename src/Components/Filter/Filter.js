@@ -15,17 +15,9 @@ const Filter = ({ value, onChange, onBlur }) => (
 );
 
 Filter.propTypes = {
-  value: PropTypes.array.isRequired,
+  value: PropTypes.string.isRequired,
   onChange: PropTypes.func.isRequired,
   onBlur: PropTypes.func,
 };
 
 export default Filter;
-
-// onChangeFilter = ({ target }) => {
-//   const { value } = target;
-
-//   const { onChange } = this.props;
-
-//   return onChange(value);
-// };
